@@ -1,5 +1,4 @@
 # Python-Tax-Calculator
-# Python Tax Calculator
 
 # Project Overview
 This project is a Python-based tax calculator developed using multiple programming paradigms:
